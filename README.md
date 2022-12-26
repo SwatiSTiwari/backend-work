@@ -1,4 +1,4 @@
-========================  how to use this work in your system ============================
+=========  how to use this work in your system ===========
 
 Prerequisites
 Before we move on, you’ll need to have the following:
